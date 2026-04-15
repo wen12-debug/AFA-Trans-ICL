@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# 数据集 
+*.csv
+*.npy
+data/DNN-Edge-IIoT-dataset.csv
+
+# IDE 配置
+.vscode/
+.idea/
+
+
+# checkpoints/
